@@ -1,5 +1,5 @@
 #!/bin/bash
-DOMAIN=NS.AAA.com
+DOMAIN=Change.With.NS.Server
 FWDPORT=22
 FWDADDR=127.0.0.1
 MTU=1500
